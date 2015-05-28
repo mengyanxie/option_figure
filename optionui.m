@@ -1,4 +1,4 @@
-function varargout = optionui(varargin)
+%function varargout = optionui(varargin)
 % OPTIONUI MATLAB code for optionui.fig
 %      OPTIONUI, by itself, creates a new OPTIONUI or raises the existing
 %      singleton*.
